@@ -1,4 +1,4 @@
-## Hi there 👋
+## Buenas Mi Nombre se Gonzalo Rivera Luna 👋
 
 <!--
 **GonEzq/GonEzq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
